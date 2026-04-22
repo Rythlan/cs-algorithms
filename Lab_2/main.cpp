@@ -93,7 +93,7 @@ bool isPrime(int n)
 int main()
 {
     srand(time(NULL));
-    int variant = 1;
+    int variant = 27;
     int S = variant * 5 + 50;
     Queue q(S);
 
